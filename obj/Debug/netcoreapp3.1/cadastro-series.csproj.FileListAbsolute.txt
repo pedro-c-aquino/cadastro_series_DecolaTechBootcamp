@@ -1,0 +1,13 @@
+C:\Users\pcard\OneDrive\Área de Trabalho\Programação\dotnet\cadastro-series\cadastro-series\obj\Debug\netcoreapp3.1\cadastro-series.csprojAssemblyReference.cache
+C:\Users\pcard\OneDrive\Área de Trabalho\Programação\dotnet\cadastro-series\cadastro-series\obj\Debug\netcoreapp3.1\cadastro-series.AssemblyInfoInputs.cache
+C:\Users\pcard\OneDrive\Área de Trabalho\Programação\dotnet\cadastro-series\cadastro-series\obj\Debug\netcoreapp3.1\cadastro-series.AssemblyInfo.cs
+C:\Users\pcard\OneDrive\Área de Trabalho\Programação\dotnet\cadastro-series\cadastro-series\obj\Debug\netcoreapp3.1\cadastro-series.csproj.CoreCompileInputs.cache
+C:\Users\pcard\OneDrive\Área de Trabalho\Programação\dotnet\cadastro-series\cadastro-series\bin\Debug\netcoreapp3.1\cadastro-series.exe
+C:\Users\pcard\OneDrive\Área de Trabalho\Programação\dotnet\cadastro-series\cadastro-series\bin\Debug\netcoreapp3.1\cadastro-series.deps.json
+C:\Users\pcard\OneDrive\Área de Trabalho\Programação\dotnet\cadastro-series\cadastro-series\bin\Debug\netcoreapp3.1\cadastro-series.runtimeconfig.json
+C:\Users\pcard\OneDrive\Área de Trabalho\Programação\dotnet\cadastro-series\cadastro-series\bin\Debug\netcoreapp3.1\cadastro-series.runtimeconfig.dev.json
+C:\Users\pcard\OneDrive\Área de Trabalho\Programação\dotnet\cadastro-series\cadastro-series\bin\Debug\netcoreapp3.1\cadastro-series.dll
+C:\Users\pcard\OneDrive\Área de Trabalho\Programação\dotnet\cadastro-series\cadastro-series\bin\Debug\netcoreapp3.1\cadastro-series.pdb
+C:\Users\pcard\OneDrive\Área de Trabalho\Programação\dotnet\cadastro-series\cadastro-series\obj\Debug\netcoreapp3.1\cadastro-series.dll
+C:\Users\pcard\OneDrive\Área de Trabalho\Programação\dotnet\cadastro-series\cadastro-series\obj\Debug\netcoreapp3.1\cadastro-series.pdb
+C:\Users\pcard\OneDrive\Área de Trabalho\Programação\dotnet\cadastro-series\cadastro-series\obj\Debug\netcoreapp3.1\cadastro-series.genruntimeconfig.cache
